@@ -29,3 +29,5 @@ Fetches your steam purchase history and sums up how much you have spent in diffe
 3. Paste the contents of the [purchase-history.js](purchase-history.js) file into the console
 4. Once the script has finished loading, click start fetching history (**IT CAN TAKE A WHILE**), a text message will appear saying: **Finished fetching data!** 
 5. Click get dissapointed and the totals should be listed
+
+![](https://github.com/KlutzyBubbles/steam-history-scripts/blob/main/images/purchase-totals.png)
